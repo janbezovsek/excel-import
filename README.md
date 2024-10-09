@@ -37,3 +37,4 @@ We have a simple page with a button that imports XLSX file and displays it in JS
 
 
 
+![excel2](https://github.com/user-attachments/assets/7f8f1e77-2932-4995-9132-0f5229360206)
