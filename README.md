@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 
 Clone the project
 
-- git clone https://github.com/janbezovsek/QRcode-generation.git
+- git clone https://github.com/janbezovsek/excel-import.git
 
 
 Go to the project directory and install npm packages
